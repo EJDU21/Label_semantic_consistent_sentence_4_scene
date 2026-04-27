@@ -199,11 +199,7 @@ python label_scene.py \
 
 （可選）若你要輸出除錯明細，可加上 `--write-details` 產生 `scene_01.clip_scores.json`。
 
----
-
-## 下一步（擴展到 20 個場景）
-
-### 批次標注 20 個場景（scene_*）
+#### 批次標注 20 個場景（scene_*）
 
 （預設會跳過 `scene_12`）
 
